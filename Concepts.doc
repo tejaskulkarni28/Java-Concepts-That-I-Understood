@@ -12,3 +12,4 @@ Java Object-Oriented-Programming
         })
         .class just a template. If you played with the clay and the clay shapes template then you will get the idea. 
         .object!!! huh! Just an instance of a class! So if you are creating an instance of class then you need to create an object for initialization
+         so lets say car is a class and hondacity car is a real object so the class is just a template and hondacity which comes under the car section which is an object for real!
