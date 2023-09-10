@@ -1,0 +1,14 @@
+Java Object-Oriented-Programming
+
+  ! why java is object-oriented ?
+    - There are several reasons why java is called object-oriented-Programming
+        .Encapsulation (just like the content inside these brackets! Iso-lated!) just the private protected thing
+        .Abstraction (It is like a remote control tv. So you press the buttons you want and function as per you want! But you don't care and you don't know the complexity of that particular button functionality how it works in the tv)
+        . Ploymorphism (Many forms{
+            two-types:{
+                1. @override
+                2. overloading
+            }
+        })
+        .class just a template. If you played with the clay and the clay shapes template then you will get the idea. 
+        .object!!! huh! Just an instance of a class! So if you are creating an instance of class then you need to create an object for initialization
